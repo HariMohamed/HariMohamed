@@ -23,7 +23,7 @@ I’m a **Full-Stack Developer** with strong foundations in **software engineeri
 ---
 
 ## 🏆 Career Highlights & Achievements
-- 👨‍💻 **Internship at Easy Medical Device (2024–2025)**: Worked on **EasyIFU SaaS platform** — contributed to risk management (ISO 14971, ISO 27001), compliance automation, and SaaS backend enhancements.  
+- 👨‍💻 **Internship at Easy Medical Device (2024–2025)**: Worked on **EasyIFU SaaS platform** — contributed to risk management , compliance automation, and SaaS backend enhancements.  
 - 🌐 **Developed MERN Portfolio & Blog System**: Implemented **role-based authentication**, admin dashboards, and REST APIs.  
 - 🛒 **Built E-commerce platform (PHP/MySQL)**: End-to-end shopping system with cart, checkout, and secure database integration.  
 - 📊 **Contributed to AI projects**: Designed **data-driven models** for decision support and explored integration of AI into SaaS solutions.  
@@ -63,6 +63,13 @@ I’m a **Full-Stack Developer** with strong foundations in **software engineeri
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=fff)
 ![UML](https://img.shields.io/badge/-UML-02569B?style=for-the-badge)
 ![Merise](https://img.shields.io/badge/-Merise-00A98F?style=for-the-badge)
+
+<!-- Project Management -->
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![PERT](https://img.shields.io/badge/-PERT%20Charts-FF9800?style=for-the-badge&logoColor=fff)
+![Gantt](https://img.shields.io/badge/-Gantt%20Charts-6A1B9A?style=for-the-badge&logoColor=fff)
+
 
 ---
 
