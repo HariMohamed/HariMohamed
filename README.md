@@ -70,6 +70,16 @@ I’m a **Full-Stack Developer** with strong foundations in **software engineeri
 ![PERT](https://img.shields.io/badge/-PERT%20Charts-FF9800?style=for-the-badge&logoColor=fff)
 ![Gantt](https://img.shields.io/badge/-Gantt%20Charts-6A1B9A?style=for-the-badge&logoColor=fff)
 
+---
+
+### 🤝 Soft Skills & Collaboration
+- 💡 Problem-Solving & Critical Thinking  
+- 📢 Effective Communication (multilingual: Arabic, French, English)  
+- 🤝 Teamwork & Cross-functional Collaboration  
+- 🎯 Time & Task Management (Agile & Scrum mindset)  
+- 🚀 Adaptability & Continuous Learning  
+- 🔍 Attention to Detail (especially in compliance & QA projects)  
+
 
 ---
 
