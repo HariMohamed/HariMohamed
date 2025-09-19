@@ -22,6 +22,15 @@ I’m a **Full-Stack Developer** with strong foundations in **software engineeri
 
 ---
 
+## 🏆 Career Highlights & Achievements
+- 👨‍💻 **Internship at Easy Medical Device (2024–2025)**: Worked on **EasyIFU SaaS platform** — contributed to risk management (ISO 14971, ISO 27001), compliance automation, and SaaS backend enhancements.  
+- 🌐 **Developed MERN Portfolio & Blog System**: Implemented **role-based authentication**, admin dashboards, and REST APIs.  
+- 🛒 **Built E-commerce platform (PHP/MySQL)**: End-to-end shopping system with cart, checkout, and secure database integration.  
+- 📊 **Contributed to AI projects**: Designed **data-driven models** for decision support and explored integration of AI into SaaS solutions.  
+- 🎓 **Strong academic track**: DTS in Full-Stack Development, Bachelor’s in Computer Systems Engineering, and AI specialization in progress.  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
