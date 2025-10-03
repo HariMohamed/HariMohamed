@@ -2,6 +2,11 @@
 <h3 align="center">🚀 Full-Stack Developer (MERN, SaaS, Compliance) | 🤖 AI & Prompt Engineering Enthusiast</h3>
 
 <p align="center">
+  <!-- Animated headline (optional) -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+%26+Prompt+Engineering;SaaS+%7C+Compliance+Tech" alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -13,106 +18,140 @@
 
 ---
 
-## 🚀 About Me  
-- 👨‍💻 Full-Stack Developer (**MERN, SaaS, Compliance Tech**)  
-- 🤖 Exploring **AI, Machine Learning & Prompt Engineering**  
-- 📊 Passionate about **Data Analysis & Decision Systems**  
-- 🌐 Building **scalable SaaS products** with compliance workflows  
-- ⚡ Love **clean code, problem-solving, and Agile DevOps**
+## 🚀 About Me
+- 👨‍💻 Full-Stack Developer (MERN) with experience building SaaS and compliance features.  
+- 🤖 Working on AI, ML prototypes, and **prompt engineering** workflows.  
+- 📊 Interested in data-driven decisions & scalable architectures.  
+- ⚡ Clean code, testing, and CI/CD focus.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack (selected)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
+**Backend & AI**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+🧠 Prompt Engineering
 
-### ⚙️ Backend & AI  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff) 
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)  
-🧠 **Prompt Engineering**
-
-### 🗄️ Databases & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff) 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff) 
+**Databases & Containerization**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 ---
 
-## 📌 Featured Projects  
-- 🔹 [**EasyIFU Blog (MERN)**](https://github.com/HariMohamed/Blog-System-interns) – Role-based access control, auth flows, admin UI.  
-- 🔹 [**Portfolio Website**](https://v0-professional-portfolio-website-six-sable.vercel.app/) – Responsive React + Tailwind site.  
-- 🔹 [**E-DIGITAL E-commerce**](https://github.com/HariMohamed/E-DIGITAL) – PHP/MySQL shopping system.  
-- 🔹 [**AI/ML Prototypes**](#) – Data-driven ML decision models (in progress).  
-
-👉 Explore more: [**github.com/HariMohamed**](https://github.com/HariMohamed)
+## 📌 Mon parcours scolaire (Mon Parcours Scolaire)
+- 🎓 **AI Alternance Program** – Institut des Sciences (IDS), Salé *(2025–2026)*  
+- 🎓 **BSc Ingénierie des Systèmes Informatiques** – SupMTI, Rabat *(2024–2025)*  
+- 🎓 **DTS Full-Stack Web Development** – ISTA CHMAOU, Salé *(2022–2024)*  
+- 🎓 **Baccalauréat - Sciences Physiques** – Lycée Abbas Mahmoud Al Akkad, Salé *(2022)*
 
 ---
 
-## 🏆 Achievements  
-- 🌐 **Easy Medical Device Internship (2024–2025):** Built SaaS compliance modules.  
-- 🛒 **E-Commerce Platform:** End-to-end checkout & payment.  
-- 📊 **AI Projects:** Prototyped ML models for SaaS.  
-- 🎓 **Strong Academic Path:** DTS → BSc → AI Specialization.  
-
----
-
-## 📊 GitHub Stats & Achievements  
-
+## 📊 GitHub Stats (card / two-column layout)
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HariMohamed&show_icons=true&theme=tokyonight" height="160"/>
+      <!-- Overall stats (cached 24h) -->
+      <a href="https://github.com/HariMohamed">
+        <img src="https://github-readme-stats.vercel.app/api?username=HariMohamed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+      </a>
       <br><em>Overall GitHub Stats</em>
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=HariMohamed&theme=tokyonight&row=2&column=3" height="160"/>
-      <br><em>Profile Trophy</em>
+      <!-- Trophies -->
+      <a href="https://github.com/HariMohamed">
+        <img src="https://github-profile-trophy.vercel.app/?username=HariMohamed&theme=tokyonight" alt="Trophies"/>
+      </a>
+      <br><em>Profile Trophies</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamed&layout=compact&theme=tokyonight" height="160"/>
+      <!-- Top languages (cached 24h) -->
+      <a href="https://github.com/HariMohamed?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+      </a>
       <br><em>Most Used Languages</em>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=HariMohamed&theme=tokyonight" height="160"/>
-      <br><em>Contribution Streak</em>
+      <!-- Contribution streak (fallback note below) -->
+      <a href="https://github.com/HariMohamed">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=HariMohamed&theme=tokyonight" alt="GitHub Streak" />
+      </a>
+      <br><em>Contribution Streak (service-dependent)</em>
     </td>
   </tr>
 </table>
 
+> ⚠️ **Note:** Streak service sometimes uses Heroku; if the streak image fails, remove it or replace with the Contribution Graph below.
+
 ---
 
-## 🌍 Activity & Interactive Widgets  
-
+## 🌍 Activity & Interactive Widgets (icons + working links)
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=HariMohamed&theme=tokyo-night" alt="Contribution Graph" />
+  <!-- Contribution graph (SVG) -->
+  <a href="https://github.com/HariMohamed">
+    <img alt="Contribution Graph" src="https://ghchart.rshah.org/HariMohamed" />
+  </a>
+  <br><em>Contribution Calendar (SVG)</em>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HariMohamed/count.svg" alt="Visitor Count" />
+  <!-- Visitor Counter -->
+  <a href="https://github.com/HariMohamed">
+    <img src="https://profile-counter.glitch.me/HariMohamed/count.svg" alt="Visitor Count" />
+  </a>
+  <br><em>Visitor Count</em>
 </p>
 
 ---
 
-## 📫 Reach Me  
-📧 **mohamedhari13@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)  
-💻 [GitHub](https://github.com/HariMohamed)  
+## 🌐 Langues (Spoken languages)
+- 🇲🇦 **العربية (Arabic)** – Langue maternelle  
+- 🇫🇷 **Français** – Courant / Fluent  
+- 🇬🇧 **English** – Fluent
 
 ---
 
-⭐ *“Compliance is a feature—design for it from day one.”*  
+## 🏆 Achievements & Highlights
+- 🌐 Internship @ Easy Medical Device — implemented compliance & risk modules (Node.js / MongoDB)  
+- 🛒 Built e-commerce platform (PHP + MySQL) with secure checkout flows  
+- 📈 Multiple AI/ML prototypes for SaaS features  
+- 🎓 DTS → BSc → AI specialization (see ``Mon parcours scolaire`` above)
+
+---
+
+## 📫 Contact
+- ✉️ **mohamedhari13@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)  
+- 💻 [GitHub](https://github.com/HariMohamed)
+
+---
+
+## 🔧 Performance & Reliability Tips (practical)
+1. **Cache stats images** (reduce rate-limit failures): add `&cache_seconds=86400` to `github-readme-stats` queries (example included above).  
+2. **Prefer HTTPS** for every image link — GitHub strips mixed-content.  
+3. **Have fallbacks**: if a third-party widget fails (Heroku/glitch), remove it or replace with a static badge or your own hosted image.  
+4. **Test on a separate branch** before pushing to `main` — GitHub renders README after push.  
+5. **If an image is repeatedly broken**, download the generated SVG once (if license allows), store it in your repo (e.g., `/assets/`), and reference it via raw.githubusercontent.com path for guaranteed stability.  
+6. **Use consistent themes** across widgets — set `theme=tokyonight` (dark) or `theme=light` for a consistent look.  
+
+---
+
+## 🎨 Theme & UI/UX suggestions (short)
+- **Dark theme**: `tokyonight`, `dark` or `radical` for energetic look.  
+- **Light theme**: `light` or `default` for recruiter-friendly, print-friendly style.  
+- Keep *one* theme for all widgets (stats, top-langs, trophies) for visual consistency.  
+- Keep the top area (intro + badges) compact so recruiters see the essentials at a glance.  
+- Use **cards** or a simple HTML table (as above) to make stats scannable.
+
+---
+
+⭐ *“Compliance is a feature — design for it from day one.”*
