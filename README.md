@@ -28,6 +28,7 @@
 
 ## 🛠️ Tech Stack (selected)
 **Web & Mobile / Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
@@ -39,6 +40,7 @@
 
 
 **Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
@@ -46,6 +48,7 @@
 
 
 **Backend & Frameworks**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
@@ -54,6 +57,7 @@
 
 
 **Databases**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -63,11 +67,13 @@
 
 
 **Containers / Infra**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
 **Project Management & Process**
+
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 ![PERT](https://img.shields.io/badge/PERT-Charts-FF9800?style=for-the-badge)
@@ -76,6 +82,7 @@
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
 
 **Other / Tools**
+
 - Prompt Engineering, CI/CD (GitHub Actions), Testing, Accessibility,genie logiciel
 
 
@@ -94,7 +101,7 @@
 ---
 
 ## 📌 Mon parcours scolaire (Mon Parcours Scolaire)
-- 🎓 **Incubateur Digital Solidaire (IDS) — Salé** (Incubateur & accompagnement pour jeunes projets digitaux). :contentReference[oaicite:1]{index=1}  
+- 🎓 **Formation Integration D'AI** - Incubateur Digital Solidaire (IDS) — Salé *(2025-2026)*  
 - 🎓 **BSc Ingénierie des Systèmes Informatiques** – SupMTI, Rabat *(2024–2025)*  
 - 🎓 **DTS Full-Stack Web Development** – ISTA CHMAOU, Salé *(2022–2024)*  
 - 🎓 **Baccalauréat - Sciences Physiques** – Lycée Abbas Mahmoud Al Akkad, Salé *(2022)*
