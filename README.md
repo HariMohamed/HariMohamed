@@ -27,30 +27,7 @@
 ---
 
 ## 🛠️ Tech Stack (selected)
-**Web / Frontend**
-- HTML, CSS, Sass (SASS), TailwindCSS, Bootstrap, React.js, Flutter
-
-**Languages**
-- JavaScript, TypeScript (if used), Python, Java, C, SQL
-
-**Backend & Frameworks**
-- Node.js, Express, Django, PHP, Laravel
-
-**Databases**
-- MongoDB, MySQL, SQLite, SQL Server, PostgreSQL
-
-**Containers / Infra**
-- Docker, Linux, Windows
-
-**Project Management & Process**
-- Gestion de projet (PERT, Gantt), Trello, Jira, Scrum, UML, Génie logiciel
-
-**Other / Tools**
-- Prompt Engineering, CI/CD (GitHub Actions), Testing, Accessibility
-
-> (All badges below are copy-paste — place them where you prefer.)
-
-### Badges (copy-paste)
+**Web & Mobile / Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
@@ -58,34 +35,61 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+
+**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c)
 
+
+**Backend & Frameworks**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 
+
+**Databases**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
+
+**Containers / Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
+**Project Management & Process**
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 ![PERT](https://img.shields.io/badge/PERT-Charts-FF9800?style=for-the-badge)
 ![Gantt](https://img.shields.io/badge/Gantt-Charts-6A1B9A?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
+
+**Other / Tools**
+- Prompt Engineering, CI/CD (GitHub Actions), Testing, Accessibility,genie logiciel
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
