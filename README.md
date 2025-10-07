@@ -18,204 +18,265 @@
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Full-Stack Developer (MERN) — building SaaS platforms & compliance features  
-- 🤖 Exploring AI, ML and **Prompt Engineering** workflows  
-- 📊 Passionate about data-driven decisions, clean architecture and DevOps  
-- ⚡ Strong team player; test-first, CI/CD and performance-oriented
+<!-- Converted README HTML: improved, accessible, and responsive single-file profile -->
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Hari Mohamed Rizq — Full-Stack Developer</title>
+    <meta name="description" content="Hari Mohamed Rizq — Full-Stack (MERN), AI & Prompt Engineering, SaaS & Compliance specialist.">
+    <style>
+        :root{
+            --bg-1: #0f1724;
+            --bg-2: #1f2937;
+            --accent: #00F7FF;
+            --accent-2: #0099FF;
+            --card: rgba(255,255,255,0.04);
+            --muted: #94a3b8;
+            --glass: rgba(255,255,255,0.03);
+            --radius: 14px;
+            --max-width: 1100px;
+            --fw-heading: 700;
+            --fw-body: 400;
+        }
 
----
+        html[data-theme="light"]{
+            --bg-1: #f8fafc;
+            --bg-2: #e6eef8;
+            --accent: #0077b6;
+            --accent-2: #0096c7;
+            --card: rgba(0,0,0,0.04);
+            --muted: #475569;
+            --glass: rgba(0,0,0,0.04);
+            color-scheme: light;
+        }
 
-## 🛠️ Tech Stack (selected)
-**Web & Mobile / Frontend**
+        *,*::before,*::after{box-sizing:border-box}
+        body{
+            margin:0;
+            font-family: Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial;
+            background: linear-gradient(135deg,var(--bg-1),var(--bg-2));
+            color: #e6eef8;
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            line-height:1.5;
+            padding:28px;
+        }
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+        a{color:inherit}
 
+        /* Skip link */
+        .skip-link{position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden}
+        .skip-link:focus{position:static;width:auto;height:auto;padding:8px 12px;border-radius:8px;background:var(--accent);color:#001219;z-index:1000}
 
-**Languages**
+        .wrap{max-width:var(--max-width);margin:0 auto;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);border-radius:var(--radius);padding:36px;box-shadow:0 10px 40px rgba(0,0,0,0.6)}
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c)
+        header{display:flex;gap:20px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+        .hero{display:flex;gap:20px;align-items:center}
 
+        .avatar{width:88px;height:88px;border-radius:12px;background:linear-gradient(90deg,var(--accent),var(--accent-2));display:flex;align-items:center;justify-content:center;font-size:36px}
 
-**Backend & Frameworks**
+        h1{font-size:1.6rem;margin:0;color:var(--accent);font-weight:800}
+        .subtitle{color:var(--muted);margin-top:6px;font-size:0.95rem}
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+        nav.badges{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+        .btn{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border-radius:10px;background:var(--glass);color:inherit;text-decoration:none;border:1px solid transparent;font-weight:600}
+        .btn:focus{outline:3px solid rgba(0,247,255,0.15);outline-offset:3px}
+        .btn.external{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#001219}
 
+        main{margin-top:24px}
 
-**Databases**
+        .grid{display:grid;grid-template-columns:1fr 360px;gap:28px}
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+        .card{background:var(--card);padding:20px;border-radius:12px;border:1px solid rgba(255,255,255,0.02)}
 
+        pre.code{background:linear-gradient(90deg,rgba(255,255,255,0.02),transparent);padding:16px;border-radius:8px;overflow:auto;color:#e6eef8}
 
-**Containers / Infra**
+        h2.section{font-size:1.1rem;color:var(--accent);margin:18px 0 12px}
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+        .tech-list{display:flex;flex-wrap:wrap;gap:8px}
+        .chip{background:rgba(255,255,255,0.02);padding:6px 10px;border-radius:999px;font-weight:600}
 
-**Project Management & Process**
+        .projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+        .project{padding:14px;border-radius:10px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);border:1px solid rgba(255,255,255,0.03)}
+        .project h3{margin:0;color:var(--accent);font-size:1rem}
+        .project p{color:var(--muted);margin:8px 0}
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![PERT](https://img.shields.io/badge/PERT-Charts-FF9800?style=for-the-badge)
-![Gantt](https://img.shields.io/badge/Gantt-Charts-6A1B9A?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
+        .stats img{max-width:100%;border-radius:8px}
 
-**Other / Tools**
+        footer{margin-top:22px;text-align:center;color:var(--muted)}
 
-- Prompt Engineering, CI/CD (GitHub Actions), Testing, Accessibility,genie logiciel
+        .toggle{background:transparent;border:1px solid rgba(255,255,255,0.04);padding:8px 10px;border-radius:10px;color:inherit}
 
+        /* Accessible collapsible */
+        .collapsible{display:flex;flex-direction:column;gap:8px}
+        .collapsible button{display:flex;justify-content:space-between;align-items:center;padding:10px;border-radius:8px;background:transparent;border:1px solid rgba(255,255,255,0.03);color:inherit}
+        .collapsible [data-panel]{padding:12px;border-radius:8px;background:linear-gradient(90deg,transparent,rgba(255,255,255,0.01));}
 
+        /* Focus styles */
+        :focus{outline:2px solid rgba(0,247,255,0.12);outline-offset:3px}
 
+        @media (max-width:980px){.grid{grid-template-columns:1fr}.hero{width:100%;justify-content:space-between}.avatar{width:72px;height:72px}}
 
+        /* Reduced motion */
+        @media (prefers-reduced-motion:reduce){*{transition:none!important} }
+    </style>
 
+</head>
+<body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="wrap" role="document">
+        <header>
+            <div class="hero" aria-hidden="false">
+                <div class="avatar" aria-hidden="true">👋</div>
+                <div>
+                    <h1>Hari Mohamed Rizq</h1>
+                    <div class="subtitle">Full-Stack Developer (MERN) • AI & Prompt Engineering • SaaS & Compliance</div>
+                </div>
+            </div>
 
+            <div style="display:flex;gap:8px;align-items:center">
+                <nav class="badges" aria-label="Contact and links">
+                    <a class="btn" href="mailto:mohamedhari13@gmail.com">📧 Email</a>
+                    <a class="btn external" href="https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a class="btn external" href="https://github.com/HariMohamed" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a class="btn" href="https://v0-professional-portfolio-website-six-sable.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+                </nav>
 
+                <button class="toggle" id="themeToggle" aria-pressed="false" title="Toggle theme">Toggle theme</button>
+            </div>
+        </header>
 
+        <main id="main">
+            <div class="grid">
+                <section>
+                    <article class="card" aria-labelledby="aboutHeading">
+                        <h2 id="aboutHeading" class="section">🎯 About Me</h2>
+                        <p style="color:var(--muted)">Full-Stack developer focused on building AI-powered SaaS, compliance tooling and robust web applications. Comfortable across MERN, Python, PHP, and DevOps workflows.</p>
 
+                        <h3 style="margin-top:12px">Quick facts</h3>
+                        <pre class="code" aria-label="Hari data as code"><code>const hari = {
+    role: "Full-Stack Developer",
+    location: "Casablanca, Morocco 🇲🇦",
+    currentFocus: ["AI Integration","SaaS Development","Compliance Tech"],
+    education: "BSc in Computer Systems Engineering",
+    languages: ["Arabic (Native)", "French (Fluent)", "English (Fluent)"],
+    philosophy: "Compliance is a feature — design for it from day one."
 
+}
+</code></pre>
 
+                        <div style="margin-top:14px" class="collapsible" aria-label="Tech categories">
+                            <div>
+                                <button aria-expanded="true" data-toggle="frontend">🎨 Frontend & Mobile</button>
+                                <div data-panel="frontend" style="display:block">
+                                    <div class="tech-list" aria-hidden="false">
+                                        <span class="chip">React</span><span class="chip">Flutter</span><span class="chip">JavaScript</span>
+                                        <span class="chip">HTML5</span><span class="chip">CSS3</span><span class="chip">Tailwind</span>
+                                    </div>
+                                </div>
+                            </div>
 
+                            <div>
+                                <button aria-expanded="false" data-toggle="backend">⚙️ Backend & Frameworks</button>
+                                <div data-panel="backend" style="display:none">
+                                    <div class="tech-list">
+                                        <span class="chip">Node.js</span><span class="chip">Express</span><span class="chip">Django</span><span class="chip">Laravel</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
 
+                    <article class="card" style="margin-top:18px" aria-labelledby="projectsHeading">
+                        <h2 id="projectsHeading" class="section">🚀 Featured Projects</h2>
+                        <div class="projects">
+                            <div class="project">
+                                <h3>🔐 EasyIFU Blog System</h3>
+                                <p>Full-Stack MERN — role-based auth, admin UI, analytics, REST APIs.</p>
+                                <a class="btn" href="https://github.com/HariMohamed/Blog-System-interns" target="_blank" rel="noopener noreferrer">View repo</a>
+                            </div>
 
----
+                            <div class="project">
+                                <h3>💼 Professional Portfolio</h3>
+                                <p>React + Tailwind, optimized and deployed on Vercel.</p>
+                                <a class="btn" href="https://v0-professional-portfolio-website-six-sable.vercel.app/" target="_blank" rel="noopener noreferrer">Live demo</a>
+                            </div>
 
-## 📌 Mon parcours scolaire (Mon Parcours Scolaire)
-- 🎓 **Formation Integration D'AI** - Incubateur Digital Solidaire (IDS) — Salé *(2025-2026)*  
-- 🎓 **BSc Ingénierie des Systèmes Informatiques** – SupMTI, Rabat *(2024–2025)*  
-- 🎓 **DTS Full-Stack Web Development** – ISTA CHMAOU, Salé *(2022–2024)*  
-- 🎓 **Baccalauréat - Sciences Physiques** – Lycée Abbas Mahmoud Al Akkad, Salé *(2022)*
+                            <div class="project">
+                                <h3>🛒 E-DIGITAL E-commerce</h3>
+                                <p>PHP + MySQL platform with secure checkout & product management.</p>
+                                <a class="btn" href="https://github.com/HariMohamed/E-DIGITAL" target="_blank" rel="noopener noreferrer">View repo</a>
+                            </div>
 
----
+                            <div class="project">
+                                <h3>🤖 AI/ML Prototypes</h3>
+                                <p>Prompt engineering experiments & integration patterns for SaaS features.</p>
+                                <a class="btn" href="https://github.com/HariMohamed" target="_blank" rel="noopener noreferrer">More</a>
+                            </div>
+                        </div>
+                    </article>
+                </section>
 
-## 📌 Featured Projects
-- 🔹 [EasyIFU Blog (MERN)](https://github.com/HariMohamed/Blog-System-interns) — role-based auth, admin UI.  
-- 🔹 [Portfolio Website](https://v0-professional-portfolio-website-six-sable.vercel.app/) — React + Tailwind.  
-- 🔹 [E-DIGITAL (E-commerce)](https://github.com/HariMohamed/E-DIGITAL) — PHP + MySQL.  
-- 🔹 Additional AI/ML prototypes (in progress).
+                <aside>
+                    <div class="card stats" aria-labelledby="statsHeading">
+                        <h2 id="statsHeading" class="section">📊 GitHub</h2>
+                        <img loading="lazy" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HariMohamed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400">
+                        <div style="height:12px"></div>
+                        <img loading="lazy" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400">
+                    </div>
 
----
+                    <div class="card" style="margin-top:16px" aria-labelledby="eduHeading">
+                        <h2 id="eduHeading" class="section">🎓 Education</h2>
+                        <p class="muted">AI Integration (IDS) • BSc Computer Systems • DTS Full-Stack • Baccalauréat</p>
+                        <a class="btn" href="#" onclick="return false">View details</a>
+                    </div>
+                </aside>
+            </div>
+        </main>
 
-## 📊 GitHub Stats (two-column / card layout)
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/HariMohamed">
-        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HariMohamed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-      </a>
-      <br><em>Overall GitHub Stats</em>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HariMohamed">
-        <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=HariMohamed&theme=tokyonight" />
-      </a>
-      <br><em>Profile Trophies</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/HariMohamed?tab=repositories">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-      </a>
-      <br><em>Top Languages</em>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HariMohamed">
-        <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=HariMohamed&theme=tokyonight" />
-      </a>
-      <br><em>Contribution Streak (service-dependent)</em>
-    </td>
-  </tr>
-</table>
+        <footer>
+            <p>📫 <a href="mailto:mohamedhari13@gmail.com">mohamedhari13@gmail.com</a> • <a href="https://github.com/HariMohamed" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+            <p style="margin-top:8px;color:var(--muted)">💭 "Compliance is a feature — design for it from day one."</p>
+        </footer>
+    </div>
 
-> Tip: `github-readme-stats` supports a `cache_seconds` parameter for better rate limits and reliability; set it (example above). :contentReference[oaicite:2]{index=2}
+    <script>
+        // Theme toggle that persists in localStorage
+        (function(){
+            const root = document.documentElement;
+            const btn = document.getElementById('themeToggle');
+            const stored = localStorage.getItem('theme');
+            if(stored) root.setAttribute('data-theme', stored);
+            btn.addEventListener('click', ()=>{
+                const cur = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+                root.setAttribute('data-theme', cur);
+                btn.setAttribute('aria-pressed', cur === 'dark' ? 'false' : 'true');
+                localStorage.setItem('theme', cur);
+            });
+        })();
 
----
+        // Accessible collapsible sections
+        document.querySelectorAll('.collapsible button').forEach(btn => {
+            btn.addEventListener('click', ()=>{
+                const expanded = btn.getAttribute('aria-expanded') === 'true';
+                btn.setAttribute('aria-expanded', String(!expanded));
+                const panel = btn.nextElementSibling;
+                if(panel) panel.style.display = expanded ? 'none' : 'block';
+            });
+        });
 
-## 🌍 Activity & Interactive Widgets (icons + clickable links)
-<p align="center">
-  <!-- Small badge icon + contribution calendar -->
-  <a href="https://github.com/HariMohamed" title="Contribution Graph">
-    <img src="https://img.shields.io/badge/Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github" alt="Contribution graph badge"/>
-  </a>
-  <br/>
-  <a href="https://github.com/HariMohamed">
-    <img src="https://ghchart.rshah.org/HariMohamed" alt="GitHub Contribution Graph" />
-  </a>
-  <br><em>Contribution Calendar (SVG)</em>
-</p>
+        // Respect reduced motion preference for small animations
+        if(window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+            document.documentElement.style.transition = 'none';
+        }
 
-<p align="center">
-  <!-- Visitor badge with icon (uses visitor-badge.laobi.icu) -->
-  <a href="https://github.com/HariMohamed" title="Visitor Count">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=HariMohamed.HariMohamed&left_color=gray&right_color=blue" alt="Visitor Count" />
-  </a>
-  <br><em>Visitor Count (badge with icon)</em>
-</p>
+        // Make external links secure if not already
+        document.querySelectorAll('a[target="_blank"]').forEach(a=>{
+            if(!a.rel.includes('noopener')) a.rel += (a.rel? ' ':'') + 'noopener noreferrer';
+        });
+    </script>
 
-> Notes:
-> - `ghchart.rshah.org` is a simple contribution-chart API that renders an SVG. Use it as the calendar image. :contentReference[oaicite:3]{index=3}  
-> - `visitor-badge.laobi.icu` provides a visitor badge (with icon/visual); keep a second fallback (profile-counter.glitch.me) if needed. :contentReference[oaicite:4]{index=4}
-
----
-
-## 🌐 Langues
-- 🇲🇦 **العربية (Arabic)** — Langue maternelle  
-- 🇫🇷 **Français** — Courant  
-- 🇬🇧 **English** — Fluent
-
----
-
-## 🏆 Achievements & Highlights
-- 🌐 Internship @ Easy Medical Device — built compliance & risk modules (Node.js / MongoDB)  
-- 🛒 E-commerce platform with secure checkout (PHP + MySQL)  
-- 📈 AI/ML prototypes to enhance SaaS features  
-- 🎓 DTS → BSc → AI specialization (see Mon parcours scolaire)
-
----
-
-## 📫 Contact
-- ✉️ **mohamedhari13@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)  
-- 💻 [GitHub](https://github.com/HariMohamed)
-
----
-
-## 🔧 Performance & Reliability Tips (practical)
-1. **Cache images**: add `&cache_seconds=86400` (24h) to `github-readme-stats` queries to reduce rate-limit failures. :contentReference[oaicite:5]{index=5}  
-2. **Use HTTPS** for all widget images; GitHub blocks mixed content.  
-3. **Fallbacks**: if a 3rd-party widget fails, replace it with a static badge or store the generated SVG in `/assets/` in your repo and reference that raw file.  
-4. **Test changes on a branch** before merging to `main` (quick revert if a widget breaks).  
-5. **If service is unreliable** (Heroku/glitch), self-host the widget (deploy `github-readme-stats` or visitor counter privately) or use a stable alternative.
-
----
-
-## 🎨 Short UI / Theme suggestions
-- Keep **one theme** for all widgets (e.g., `tokyonight` for dark).  
-- Put the essentials (headline, top tech badges, contact) above the fold — recruiters scan fast.  
-- Use **two columns** for stats (as above) and keep project links short & clickable.  
-- Avoid overloading with >30 badges at the top; group badges into collapsible sections or keep a "Full stack" badge group.
-
----
-
-⭐ *“Compliance is a feature — design for it from day one.”*  
+</body>
+</html>
