@@ -1,37 +1,55 @@
 <!-- README.md | by Hari Mohamed Rizq -->
 
+<!-- 🔷 Profile Photo -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/122924568?s=96&v=4" width="120" alt="Hari Logo" />
+  <img src="https://avatars.githubusercontent.com/u/122924568?v=4" width="120" style="border-radius:50%;" alt="Hari Mohamed Rizq" />
 </p>
 
+<!-- 🧠 Title -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Hari Mohamed Rizq</span></h1>
-<h3 align="center">🚀 Full-Stack Developer · 🤖 AI </h3>
+<h3 align="center">🚀 Full-Stack Developer · 🤖 AI Engineer</h3>
 
+<!-- 💬 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+Engineer;System+Architect;Open+Source+Builder" alt="Typing SVG" />
 </p>
 
+<!-- 🔗 Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:mohamedhari13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-orange?logo=gmail&style=for-the-badge" alt="Email"/></a>
-  <a href="https://github.com/HariMohamed"><img src="https://img.shields.io/github/followers/HariMohamed?label=Follow&style=social" alt="GitHub Followers"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohamedhari13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?logo=gmail&style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://github.com/HariMohamed">
+    <img src="https://img.shields.io/github/followers/HariMohamed?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
+
+---
+
+<!-- 🖼️ Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HariMohamed/HariMohamed/main/assets/banner.png" width="100%" alt="Banner" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Full-Stack Developer** building **scalable SaaS systems** and exploring **AI-driven compliance automation**.  
-I focus on building tools that are **clean, reliable, and explainable** — where engineering meets ethics.
+I’m a **Full-Stack Developer** passionate about **scalable SaaS systems** and **AI-driven automation**.  
+I design solutions that are **clean, reliable, and explainable** — blending **engineering rigor with ethical design**.
 
 💬 *“Software should scale trust as much as it scales code.”*
 
-- 🧠 AI + Prompt Engineering → for smarter automation.  
-- 🧱 SaaS Architecture → reliability & modular design.  
-- ⚙️ DevOps + CI/CD → continuous integration & testing pipelines.  
-- 🧩 Currently finishing **BSc in Systems Engineering & AI Integration**.  
+- 🧠 AI & Prompt Engineering → smarter automation.  
+- ⚙️ DevOps + CI/CD → continuous quality delivery.  
+- 🧱 SaaS Architecture → modular, maintainable systems.  
+- 🎓 BSc in **Systems Engineering & AI Integration** (in progress).  
 
 ---
+
 ## ⚙️ Tech Stack
 
 ### 💻 Languages & Frameworks
@@ -52,11 +70,9 @@ I focus on building tools that are **clean, reliable, and explainable** — wher
 <details>
 <summary>🧠 More tools & methodologies</summary>
 
-Agile · Scrum · Trello · Jira · UML · Testing · Accessibility · Documentation  
+Agile · Scrum · Jira · UML · Testing · Documentation · Accessibility  
 CI/CD · System Design · Prompt Engineering
 </details>
-
-
 
 ---
 
@@ -71,18 +87,22 @@ CI/CD · System Design · Prompt Engineering
 
 ---
 
-💼 **Internship @ Easy Medical Device **  
+💼 **Internship @ Easy Medical Device**  
 → Built compliance & risk-analysis modules using Node.js, MongoDB & Docker.  
 
 🌐 **Languages:** 🇲🇦 Arabic · 🇫🇷 French · 🇬🇧 English  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HariMohamed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HariMohamed&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariMohamed&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -92,17 +112,9 @@ CI/CD · System Design · Prompt Engineering
 I aim to merge **AI** and **Software Engineering** to create systems that are:
 - 🔒 **Ethical by design**  
 - ⚙️ **Maintainable at scale**  
-- 🌍 **Valuable for real users**  
+- 🌍 **Valuable for real users**
 
 > 🧭 “Compliance isn’t bureaucracy — it’s architecture for trust.”
-
----
-
-## 🖼️ Banner (optional)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HariMohamed/HariMohamed/main/assets/banner.png" width="100%" alt="Banner"/>
-</p>
 
 ---
 
@@ -110,7 +122,7 @@ I aim to merge **AI** and **Software Engineering** to create systems that are:
 
 📧 **mohamedhari13@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)  
-💻 [GitHub](https://github.com/HariMohamed)  
+💻 [GitHub](https://github.com/HariMohamed)
 
 ---
 
