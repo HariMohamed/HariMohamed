@@ -1,7 +1,7 @@
 <!-- README.md | by Hari Mohamed Rizq -->
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/HariMohamed/HariMohamed/main/assets/logo.png](https://avatars.githubusercontent.com/u/122924568?s=96&v=4)" width="120" alt="Hari Logo" />
+  <img src="https://avatars.githubusercontent.com/u/122924568?s=96&v=4" width="120" alt="Hari Logo" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Hari Mohamed Rizq</span></h1>
