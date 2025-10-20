@@ -1,7 +1,7 @@
 <!-- README.md | by Hari Mohamed Rizq -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HariMohamed/HariMohamed/main/assets/logo.png" width="120" alt="Hari Logo" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+Automation+%26+Prompt+Engineering;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Hari Mohamed Rizq</span></h1>
