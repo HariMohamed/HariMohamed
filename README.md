@@ -1,76 +1,80 @@
 <!-- README.md | by Hari Mohamed Rizq -->
-# 👋 Hi, I'm Hari Mohamed Rizq  
-
-### 🚀 Full-Stack Developer · 🤖 AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI+%26;" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/HariMohamed/HariMohamed/main/assets/logo.png" width="120" alt="Hari Logo" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Hari Mohamed Rizq</span></h1>
+<h3 align="center">🚀 Full-Stack Developer · 🤖 AI </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;AI;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohamedhari13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=flat-square" alt="Email" />
-  </a>
-  <a href="https://github.com/HariMohamed">
-    <img src="https://img.shields.io/github/followers/HariMohamed?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:mohamedhari13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-orange?logo=gmail&style=for-the-badge" alt="Email"/></a>
+  <a href="https://github.com/HariMohamed"><img src="https://img.shields.io/github/followers/HariMohamed?label=Follow&style=social" alt="GitHub Followers"/></a>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Full-Stack Developer** focused on **scalable SaaS applications**, **compliance systems**, and **AI-driven automation**.  
-I believe the best software is built with **clarity, maintainability, and trust**.  
+I’m a **Full-Stack Developer** building **scalable SaaS systems** and exploring **AI-driven compliance automation**.  
+I focus on building tools that are **clean, reliable, and explainable** — where engineering meets ethics.
 
-💡 *Core philosophy:* “Code is communication — make it simple, expressive, and reliable.”  
+💬 *“Software should scale trust as much as it scales code.”*
 
-- 🧠 Exploring **AI & Prompt Engineering** to optimize business operations.  
-- ⚙️ Strong focus on **DevOps, CI/CD, and software quality**.  
-- 📈 Experienced with **startup environments** and rapid product iteration.  
-- 🎓 Currently finishing a **BSc in Systems Engineering and AI Integration**.
+- 🧠 AI + Prompt Engineering → for smarter automation.  
+- 🧱 SaaS Architecture → reliability & modular design.  
+- ⚙️ DevOps + CI/CD → continuous integration & testing pipelines.  
+- 🧩 Currently finishing **BSc in Systems Engineering & AI Integration**.  
 
 ---
-
 ## ⚙️ Tech Stack
 
-#### 💻 Languages & Frameworks
-React · Node.js · Express · Django · Laravel · Flutter  
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,flutter,django,laravel,python,java,c" />
+</p>
 
-#### 🧱 Databases & APIs
-MongoDB · PostgreSQL · MySQL · REST · GraphQL  
+### 🧱 Databases & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql,rest" />
+</p>
 
-#### 🧰 Tools & DevOps
-Docker · GitHub Actions · Linux · Nginx · PM2  
+### 🧰 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman,figma,bash,githubactions" />
+</p>
 
 <details>
-<summary>More tools & methodologies</summary>
+<summary>🧠 More tools & methodologies</summary>
 
-Agile · Scrum · Trello · Jira · UML · Testing · Prompt Engineering · Documentation
+Agile · Scrum · Trello · Jira · UML · Testing · Accessibility · Documentation  
+CI/CD · System Design · Prompt Engineering
 </details>
+
+
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🩺 [**EasyIFU Blog (MERN)**](https://github.com/HariMohamed/Blog-System-interns) | Multi-role content system for medical device compliance. Reduced manual workflows by 70%. | MERN Stack |
-| 💼 [**Portfolio Website**](https://v0-professional-portfolio-website-six-sable.vercel.app/) | Interactive, responsive developer portfolio optimized for SEO & performance. | React + Tailwind |
-| 🛒 [**E-DIGITAL (E-Commerce)**](https://github.com/HariMohamed/E-DIGITAL) | Scalable online store with secure checkout & admin panel. | PHP + MySQL |
-| 🤖 *AI Compliance Assistant (Private)* | Experimental prompt-based analyzer for regulatory document generation. | Node.js + OpenAI |
+| 🩺 [**EasyIFU Blog (MERN)**](https://github.com/HariMohamed/Blog-System-interns) | Multi-role content system for medical device compliance. Reduced manual workflows by 70%. | MERN |
+| 💼 [**Portfolio Website**](https://v0-professional-portfolio-website-six-sable.vercel.app/) | Interactive developer portfolio with animation, SEO & performance. | React + Tailwind |
+| 🛒 [**E-DIGITAL (E-Commerce)**](https://github.com/HariMohamed/E-DIGITAL) | Full e-commerce system with secure checkout & admin dashboards. | PHP + MySQL |
+| 🤖 *AI Compliance Assistant (Private)* | Prompt-based regulatory document analyzer prototype. | Node.js + OpenAI |
 
 ---
 
+💼 **Internship @ Easy Medical Device **  
+→ Built compliance & risk-analysis modules using Node.js, MongoDB & Docker.  
 
-
-**Internship @ Easy Medical Device **  
-→ Built compliance & risk analysis modules using Node.js, MongoDB, and Dockerized pipelines.  
-
-**Languages:** 🇲🇦 Arabic (Native) · 🇫🇷 French (Fluent) · 🇬🇧 English (Fluent)
+🌐 **Languages:** 🇲🇦 Arabic · 🇫🇷 French · 🇬🇧 English  
 
 ---
 
@@ -85,12 +89,20 @@ Agile · Scrum · Trello · Jira · UML · Testing · Prompt Engineering · Docu
 
 ## 🛰️ Vision
 
-I aim to bridge **software engineering** and **AI systems** to build products that are:  
-- **Ethical by design**  
-- **Maintainable at scale**  
-- **Meaningful for real users**  
+I aim to merge **AI** and **Software Engineering** to create systems that are:
+- 🔒 **Ethical by design**  
+- ⚙️ **Maintainable at scale**  
+- 🌍 **Valuable for real users**  
 
 > 🧭 “Compliance isn’t bureaucracy — it’s architecture for trust.”
+
+---
+
+## 🖼️ Banner (optional)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HariMohamed/HariMohamed/main/assets/banner.png" width="100%" alt="Banner"/>
+</p>
 
 ---
 
@@ -98,7 +110,7 @@ I aim to bridge **software engineering** and **AI systems** to build products th
 
 📧 **mohamedhari13@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)  
-💻 [GitHub](https://github.com/HariMohamed)
+💻 [GitHub](https://github.com/HariMohamed)  
 
 ---
 
