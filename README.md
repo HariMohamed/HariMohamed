@@ -32,8 +32,7 @@ I love building **intelligent, scalable, and transparent systems**.
 > ⚡ These projects reflect my transition from Full-Stack to AI Engineering.
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| **AI SaaS Assistant** *(Internship – In Progress)* | AI chatbot + automation pipelines integrated into a SaaS product. | Node.js · OpenAI API · n8n · MongoDB |
+|--------|-------------|------|| **AI SaaS Assistant** (Internship – In Progress) | AI assistant embedded in a BTP-style ERP SaaS (similar to Odoo) to power chat, automation, and business workflows. | Django · React · TypeScript · PostgreSQL · n8n · Tailwind CSS · Figma · Docker · Microservices |
 | **CRM Automation Mini-Project** *(Training – Upcoming)* | Automating CRM tasks using AI assistants + workflow automation. | n8n · Python · APIs |
 | **AI Compliance Assistant** *(Prototype)* | Assists with document analysis and classification using AI. | Node.js · LLMs |
 
