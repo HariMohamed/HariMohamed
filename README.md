@@ -32,7 +32,8 @@ I love building **intelligent, scalable, and transparent systems**.
 > ⚡ These projects reflect my transition from Full-Stack to AI Engineering.
 
 | Project | Description | Tech |
-|--------|-------------|------|| **AI SaaS Assistant** (Internship – In Progress) | AI assistant embedded in a BTP-style ERP SaaS (similar to Odoo) to power chat, automation, and business workflows. | Django · React · TypeScript · PostgreSQL · n8n · Tailwind CSS · Figma · Docker · Microservices |
+|--------|-------------|------|
+| **AI SaaS Assistant** (Internship – In Progress) | AI assistant embedded in a BTP-style ERP SaaS (similar to Odoo) to power chat, automation, and business workflows. | Django · React · TypeScript · PostgreSQL · n8n · Tailwind CSS · Figma · Docker · Microservices |
 | **CRM Automation Mini-Project** *(Training – Upcoming)* | Automating CRM tasks using AI assistants + workflow automation. | n8n · Python · APIs |
 | **AI Compliance Assistant** *(Prototype)* | Assists with document analysis and classification using AI. | Node.js · LLMs |
 
@@ -41,6 +42,12 @@ I love building **intelligent, scalable, and transparent systems**.
 ---
 
 ## 💻 Tech Stack
+
+### 🧠 Automation & BI
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ### 🚀 Languages & Frameworks
 <p align="center">
