@@ -1,94 +1,103 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/122924568?v=4" width="120" style="border-radius:50%;" alt="Hari Mohamed Rizq" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Hari Mohamed Rizq</span></h1>
-<h3 align="center">🚀 Full-Stack Developer · 🤖 AI Engineer (in training) · SaaS Automation Builder</h3>
+<img src="https://avatars.githubusercontent.com/u/122924568?v=4" width="110" style="border-radius:50%;" alt="Hari Mohamed Rizq"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&lines=AI+Engineer+%28Training%29;SaaS+Automation+Developer;Full-Stack+Developer;Open-Source+Builder" alt="Typing Animation"/>
-</p>
+# Hari Mohamed Rizq
 
----
+**Full-Stack Developer → AI Engineer**
 
-## 🧭 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+SaaS+systems;Workflow+Automation+%7C+n8n+%2B+LLMs;Full-Stack+%7C+Django+%C2%B7+React+%C2%B7+TypeScript;Prompt+Engineering+%7C+Data+Analysis)](https://git.io/typing-svg)
 
-I’m a **Full-Stack Developer** transitioning into **AI Engineering**.  
-Currently completing a **dual training program in Artificial Intelligence with IDS x GIZ**, where I work on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedhari13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-555?style=flat-square)](#)
 
-- 🤖 AI chatbot integration  
-- ⚙️ Workflow automation (n8n + API models)  
-- 🧠 Prompt engineering  
-- 📊 Data analysis (Python + Power BI)  
-- 🧱 Building SaaS systems with AI modules  
-- 🎨 UI/UX design for AI-driven apps  
+</div>
 
-I love building **intelligent, scalable, and transparent systems**.
+-----
 
----
+## About Me
 
-## 🤖 AI Projects (In Progress)
+I’m a **Full-Stack Developer** actively transitioning into **AI Engineering**, currently completing a **dual training program in Artificial Intelligence with IDS × GIZ**. My focus is building intelligent, scalable, and ethically grounded systems — from LLM integrations to full SaaS platforms with embedded AI modules.
 
-> ⚡ These projects reflect my transition from Full-Stack to AI Engineering.
+What I work on day-to-day:
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **AI SaaS Assistant** (Internship – In Progress) | AI assistant embedded in a BTP-style ERP SaaS (similar to Odoo) to power chat, automation, and business workflows. | Django · React · TypeScript · PostgreSQL · n8n · Tailwind CSS · Figma · Docker · Microservices |
-| **CRM Automation Mini-Project** *(Training – Upcoming)* | Automating CRM tasks using AI assistants + workflow automation. | n8n · Python · APIs |
-| **AI Compliance Assistant** *(Prototype)* | Assists with document analysis and classification using AI. | Node.js · LLMs |
+- 🤖 AI chatbot integration & LLM API usage (OpenAI, Claude, etc.)
+- ⚙️ Workflow automation with **n8n** and REST/AI APIs
+- 🧠 Prompt engineering & retrieval-augmented pipelines
+- 📊 Data analysis using **Python** and **Power BI**
+- 🧱 SaaS architecture with AI-powered modules
+- 🎨 UI/UX design for AI-driven applications
 
-👉 More AI projects coming soon as I continue my training.
+-----
 
----
+## 🤖 AI Projects
 
-## 💻 Tech Stack
+> Projects built during my AI Engineering training program and internship.
 
-### 🧠 Automation & BI
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+|Project                                               |Description                                                                                                                  |Stack                                                             |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+|**AI SaaS ERP Assistant** *(Internship – In Progress)*|AI assistant embedded in a BTP-style ERP platform (Odoo-like) — powers chat, automation, and business intelligence workflows.|Django · React · TypeScript · PostgreSQL · n8n · Tailwind · Docker|
+|**CRM Workflow Automation** *(Training – Upcoming)*   |Automating CRM tasks using AI agents and workflow orchestration.                                                             |n8n · Python · REST APIs                                          |
+|**AI Compliance Assistant** *(Prototype)*             |Document analysis and smart classification tool powered by LLMs.                                                             |Node.js · LLMs                                                    |
 
 
-### 🚀 Languages & Frameworks
+> 📌 More projects shipping soon — follow along!
+
+-----
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,django,laravel,python,java,c" />
 </p>
 
-### 🧱 Databases & APIs
+### Databases & APIs
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql,rest" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql" />
 </p>
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman,figma,bash,githubactions" />
 </p>
 
-### 🧠 AI / Automation Skills
-- AI Chatbot Integration  
-- LLM API Integration (OpenAI, Claude, etc.)  
-- Prompt Engineering  
-- n8n Workflow Automation  
-- Python for AI Fundamentals  
-- Data Analysis (Power BI)
+### AI & Automation
 
----
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-## 🛰️ My Vision
+LLM API Integration · Prompt Engineering · Workflow Automation · Python for AI · Data Analysis
 
-Building systems that are:
+-----
 
-- 🔍 Transparent  
-- ⚙️ Scalable  
-- 🤖 AI-driven  
-- 🛡️ Ethical by design  
+## 📊 GitHub Stats
 
-> “AI is not magic — it's engineering with responsibility.”
+<div align="center">
 
----
+![Hari’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariMohamedRizq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamedRizq&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📫 Connect With Me
+</div>
 
-📧 **mohamedhari13@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/  
-💻 Portfolio: (coming soon)  
+-----
+
+## Vision
+
+I build systems that are **transparent**, **scalable**, **AI-driven**, and **ethical by design**.
+
+> *“AI is not magic — it’s engineering with responsibility.”*
+
+-----
+
+<div align="center">
+
+📧 [mohamedhari13@gmail.com](mailto:mohamedhari13@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)
+
+</div>
