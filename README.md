@@ -1,130 +1,175 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/122924568?v=4" width="110" style="border-radius:50%;" alt="Hari Mohamed Rizq"/>
+```
+██╗  ██╗ █████╗ ██████╗ ██╗
+██║  ██║██╔══██╗██╔══██╗██║
+███████║███████║██████╔╝██║
+██╔══██║██╔══██║██╔══██╗██║
+██║  ██║██║  ██║██║  ██║██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
 
-# Hari Mohamed Rizq
+### `Full-Stack Developer` → `AI Engineer`
 
-### Full-Stack Developer → AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Building+intelligent+software+%7C+AI-powered+SaaS+%7C+Automation+systems;IDS+%C3%97+GIZ+Dual+AI+Training+Program+%E2%80%94+2024" alt="Typing SVG" />
 
-Building intelligent software, AI-powered SaaS platforms, and automation systems.
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI-powered+SaaS+Builder;Workflow+Automation+with+n8n+%26+LLMs;Full-Stack+Developer+%7C+Django+React+TypeScript;Prompt+Engineering+%26+AI+Systems)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhari13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-%23111.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedhari13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-555?style=flat-square)](#)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=HariMohamedRizq&style=flat-square&color=00f7ff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-# About Me
+## `> whoami`
 
-I am a **Full-Stack Developer transitioning into AI Engineering**, currently completing a **dual Artificial Intelligence training program with IDS × GIZ**.
-
-My goal is to design **intelligent, scalable software systems** that combine **AI, automation, and modern web architecture**.
-
-I work on:
-
-- 🤖 **AI assistants and chatbot integrations**
-- ⚙️ **Workflow automation with n8n and APIs**
-- 🧠 **Prompt engineering & LLM integration**
-- 📊 **Data analysis and dashboards**
-- 🧱 **AI-powered SaaS platforms**
-- 🎨 **UI/UX design for intelligent applications**
-
-I focus on building **real-world AI products**, not just prototypes.
-
----
-
-# AI Projects
-
-Projects built during my **AI Engineering training and internship**.
-
-| Project | Description | Stack |
-|------|-------------|------|
-| **AI SaaS ERP Assistant** *(Internship – In Progress)* | AI assistant integrated into an ERP platform for automation, intelligent search, and operational insights. | Django · React · TypeScript · PostgreSQL · n8n · Tailwind · Docker |
-| **CRM Workflow Automation** *(Training Project)* | AI-driven workflow automation system to streamline CRM operations and repetitive business tasks. | n8n · Python · REST APIs |
-| **AI Compliance Assistant** *(Prototype)* | Intelligent document analysis tool for classification, summarization, and compliance checking. | Node.js · LLM APIs |
-
-📌 **More projects coming soon as part of my AI engineering journey.**
+```yaml
+name:     Hari Mohamed Rizq
+role:     Full-Stack Developer → AI Engineer
+training: Dual AI Program — IDS × GIZ (2024)
+focus:
+  - AI assistants & LLM-powered products
+  - Workflow automation (n8n, APIs, agents)
+  - Full-stack SaaS platforms
+  - Prompt engineering & RAG systems
+  - Data analytics & intelligent dashboards
+philosophy: "AI is not magic — it's engineering with responsibility."
+status:   Open to collaboration & AI-focused roles
+```
 
 ---
 
-# Tech Stack
+## `> ls projects/`
 
-## Languages & Frameworks
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>What It Does</th>
+<th>Stack</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>🤖 AI SaaS ERP Assistant</b></td>
+<td>AI assistant embedded in an ERP platform — intelligent search, automation, and operational insights for business workflows</td>
+<td><code>Django</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>n8n</code> <code>Docker</code></td>
+<td><img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>⚙️ CRM Workflow Automation</b></td>
+<td>AI-driven automation system to eliminate repetitive CRM tasks and streamline business operations end-to-end</td>
+<td><code>n8n</code> <code>Python</code> <code>REST APIs</code></td>
+<td><img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📋 AI Compliance Assistant</b></td>
+<td>Intelligent document analysis for classification, summarization, and compliance checking with LLM reasoning</td>
+<td><code>Node.js</code> <code>LLM APIs</code> <code>RAG</code></td>
+<td><img src="https://img.shields.io/badge/status-prototype-blue?style=flat-square"/></td>
+</tr>
+</tbody>
+</table>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,django,laravel,python,java,c"/>
-</p>
+> 📌 More projects actively being built during my AI engineering journey — watch this space.
 
 ---
 
-## Databases & APIs
+## `> cat skills.json`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql"/>
-</p>
-
----
-
-## Dev Tools & Infrastructure
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman,figma,bash,githubactions"/>
-</p>
-
----
-
-## AI & Automation
-
+### ⚡ AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**AI Skills**
+```
+LLM API Integration      ████████████████████  Expert
+Prompt Engineering       ███████████████████░  Advanced
+Workflow Automation      ██████████████████░░  Advanced
+RAG Systems              ████████████████░░░░  Intermediate
+AI Product Architecture  ██████████████░░░░░░  Intermediate
+```
 
-- LLM API Integration  
-- Prompt Engineering  
-- Retrieval-Augmented Generation (RAG)  
-- Workflow Automation  
-- AI Product Architecture  
-- Data Analysis with Python
+### 🧱 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,python,java,c" />
+</p>
+
+### 🗄️ Data & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,graphql" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman,bash,githubactions" />
+</p>
 
 ---
 
-# GitHub Stats
+## `> git log --stats`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariMohamedRizq&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariMohamedRizq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamedRizq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariMohamedRizq&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HariMohamedRizq&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# Vision
+## `> cat learning_path.log`
 
-I build systems that are:
-
-- Transparent  
-- Scalable  
-- AI-driven  
-- Ethical by design  
-
-> **“AI is not magic — it’s engineering with responsibility.”**
+```
+[2024] ██████████░░░░░░░░░░  Dual AI Training — IDS × GIZ         [ACTIVE]
+[2024] ████████████████████  Full-Stack Development                 [DONE]
+[2025] █████░░░░░░░░░░░░░░░  AI Agent Architecture & Orchestration  [NEXT]
+[2025] ███░░░░░░░░░░░░░░░░░  MLOps & Model Deployment               [PLANNED]
+[2025] ██░░░░░░░░░░░░░░░░░░  AI Product Management                  [PLANNED]
+```
 
 ---
 
+## `> ./connect.sh`
+
 <div align="center">
 
-### Let's Connect
+| Channel | Link |
+|---------|------|
+| 📧 Email | [mohamedhari13@gmail.com](mailto:mohamedhari13@gmail.com) |
+| 💼 LinkedIn | [Mohamed Rizq Hari](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/) |
+| 🌐 Portfolio | Coming Soon |
 
-📧 **Email:** mohamedhari13@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/
+<br/>
+
+*I'm currently open to AI engineering roles, freelance projects, and meaningful collaborations.*
+
+<br/>
+
+```
+╔══════════════════════════════════════════╗
+║  "AI is not magic —                      ║
+║   it's engineering with responsibility." ║
+╚══════════════════════════════════════════╝
+```
 
 </div>
