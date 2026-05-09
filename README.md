@@ -13,7 +13,7 @@
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhari13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Soon-%23111111?style=for-the-badge&logo=vercel&logoColor=00f7ff)](#)
+[![Portfolio](https://img.shields.io/badge/-Soon-%23111111?style=for-the-badge&logo=vercel&logoColor=00f7ff)](https://my-port-folio-roan-delta.vercel.app/)
 
 <br/>
 
@@ -118,7 +118,26 @@
 
 </td>
 <td width="50%" valign="top">
+### 🌐 Personal Portfolio Website
+> Responsive personal portfolio showcasing my full-stack, AI integration, projects, experience, education, CV files, and contact links.
 
+**Key Features**
+- 📱 Fully responsive layout
+- 🧭 Sticky navigation with active sections
+- 💼 Projects, experience, education, and contact sections
+- 🔗 LinkedIn, GitHub, and CV download links
+- 🚀 Deployed on Vercel
+
+**Stack**
+`HTML` `CSS` `JavaScript` `Responsive Design` `Vercel`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://my-port-folio-roan-delta.vercel.app/)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 ### 🔜 More Coming Soon...
 > Currently designing and building new AI-integrated projects as part of my learning journey.
 
@@ -298,7 +317,7 @@ Agentic AI               ████████████░░░░░░�
 <td align="center" width="33%">
 
 🌐 **Portfolio**<br/>
-Coming Soon
+[Visit Portfolio](https://my-port-folio-roan-delta.vercel.app/)
 
 </td>
 </tr>
@@ -480,7 +499,7 @@ AI Integration (APIs)    ██████████████████�
 |---------|------|
 | 📧 Email | [mohamedhari13@gmail.com](mailto:mohamedhari13@gmail.com) |
 | 💼 LinkedIn | [Hari Mohamed Rizq](https://www.linkedin.com/in/mohamed-rizq-hari-4a6416249/) |
-| 🌐 Portfolio | Coming Soon |
+| 🌐 Portfolio | [Visit Portfolio](https://my-port-folio-roan-delta.vercel.app/) |
 
 <br/>
 
