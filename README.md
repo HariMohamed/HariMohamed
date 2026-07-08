@@ -330,5 +330,5 @@ A React-based website focused on clarity, responsive layout, and maintainable fr
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6cdf,45:0fa37f,100:111111&height=110&section=footer&text=Build%20practical%20software.%20Integrate%20AI%20with%20purpose.&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Footer" />
-
+ 
 </div>
