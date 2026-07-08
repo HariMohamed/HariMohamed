@@ -312,6 +312,20 @@ A React-based website focused on clarity, responsive layout, and maintainable fr
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariMohamed/HariMohamed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariMohamed/HariMohamed/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/HariMohamed/HariMohamed/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## Contact
 
 <div align="center">
